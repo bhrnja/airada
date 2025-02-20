@@ -1,0 +1,23 @@
+{
+  "name": "airada",
+  "version": "1.0.0",
+  "description": "Airada is a markdown note taking app that seamlessly organizes all of your notes with tags. Airada keeps all of your notes local first and on your device!",
+  "main": "main.js",
+  "scripts": {
+  	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhrnja/airada.git"
+  },
+  "author": "Bea Hrnja",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bhrnja/airada/issues"
+  },
+  "homepage": "https://github.com/bhrnja/airada#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
